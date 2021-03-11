@@ -1,0 +1,4 @@
+﻿Upgrading project 'LCBCAdminSystem'...
+	Configuration 'Debug|Win32': changing Platform Toolset to 'v142' (was 'v100').
+	Configuration 'Release|Win32': changing Platform Toolset to 'v142' (was 'v100').
+Retargeting End: 1 completed, 0 failed, 0 skipped
